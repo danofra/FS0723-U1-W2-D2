@@ -123,7 +123,13 @@ console.log(typeof number)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-
+const num8 = 51
+if (num8 % 2 === 0) {
+  console.log("pari")
+}
+else {
+  console.log("dispari")
+}
 /* ESERCIZIO 10
   Modifica la logica del seguente algoritmo in modo che mostri in console il messaggio corretto in ogni circostanza.
   */
